@@ -9,8 +9,8 @@
 Dans un monde où les menaces numériques ne cessent d'évoluer, chez Cesarr, nous formons les experts en cybersécurité de demain.  
 Que vous soyez un professionnel souhaitant approfondir vos connaissances ou un étudiant rêvant de vous spécialiser, nos formations sur mesure répondront à vos besoins. 
 
-🏢 Pour les professionnels, nous proposons des cursus courts et certifiants qui vous permettront de rester à la pointe dans un domaine en constante mutation.  
-📚 Pour les étudiants, nos programmes **licence** et **master** labellisés au **RNCP** vous ouvriront les portes d'une carrière passionnante.
+🏢 &nbsp; Pour les professionnels, nous proposons des cursus courts et certifiants qui vous permettront de rester à la pointe dans un domaine en constante mutation.  
+📚 &nbsp; Pour les étudiants, nos programmes **licence** et **master** labellisés au **RNCP** vous ouvriront les portes d'une carrière passionnante.
 
 ## Notre force
 

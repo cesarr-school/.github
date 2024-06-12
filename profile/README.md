@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.cesarr.fr">
-    <img src="./assets/images/logo.png" width="300px">
+    <img src="/assets/images/logo.png" width="300px">
   </a>
 </div>
 
